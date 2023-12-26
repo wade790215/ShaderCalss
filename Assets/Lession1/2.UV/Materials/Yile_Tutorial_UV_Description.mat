@@ -24,7 +24,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: aff6db0849d434140b28ca3683e5a0d7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
@@ -32,8 +32,8 @@ Material:
     - _BlendDst: 10
     - _BlendSrc: 5
     - _ColorMask: 15
-    - _FloatX: 0.5
-    - _FloatY: 0.908
+    - _FloatX: 0
+    - _FloatY: 0
     - _Stencil: 0
     - _StencilComp: 8
     - _StencilOp: 0

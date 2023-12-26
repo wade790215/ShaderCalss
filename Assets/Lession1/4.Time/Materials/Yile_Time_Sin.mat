@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Yile_Time_Sin
-  m_Shader: {fileID: 4800000, guid: 9caf91e7992d4f046a7cf1335a6ee38c, type: 3}
+  m_Shader: {fileID: 4800000, guid: 3229790814fa71040a72af8f906b4212, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -34,7 +34,9 @@ Material:
     - _BlendSrc: 5
     - _ColorMask: 15
     - _STYLE: 0
-    - _Speed: 5
+    - _Speed: 10
+    - _SpeedX: 5
+    - _SpeedY: 10
     - _Stencil: 0
     - _StencilComp: 8
     - _StencilOp: 0

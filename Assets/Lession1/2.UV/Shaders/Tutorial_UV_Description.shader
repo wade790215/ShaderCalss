@@ -3,7 +3,7 @@
     Properties
     {
         //來自SpriteRenderer / Image的圖片  關鍵字 "_MainTex"
-        [PerRendererData] _MainTex("Sprite Texture", 2D) = "white" {}
+        _MainTex("Sprite Texture", 2D) = "black" {}
         //============================Variable==================
         _FloatX("X",Range(0,1)) = 0
         _FloatY("Y",Range(0,1)) = 0
